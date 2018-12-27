@@ -2,7 +2,7 @@
 
 ## 数据统计
 
-**获取指定日期用户增减数据**:
+获取指定日期用户增减数据:
 
 ```
 $bear->data_cube->userSummary(string $date);
