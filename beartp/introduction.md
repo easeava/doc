@@ -23,7 +23,7 @@ $config = [
 $bearTP = Factory::bearTP($config);
 ```
 
-获取用户授权页 URL:
+获取预授权页 URL:
 
 ```text
 $bearTP->getPreAuthorizationUrl(string $callbackUrl);
