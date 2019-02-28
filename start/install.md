@@ -6,7 +6,7 @@
 
 安装
 
-使用[`compoers`](https://getcomposer.org/):
+使用[`composer`](https://getcomposer.org/):
 
 ```
 $ composer require easeava/baidu v1.0-beta.2
