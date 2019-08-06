@@ -7,9 +7,8 @@ use EaseBaidu\Factory;
 
 $config = [
     'app_id' => 'xxx',
-    'token' => 'xxx',
     'app_key' => 'xxx',
-    'aes_key' => 'xxx',
+    'secret' => 'xxx',
     'log' => [
         'name' => 'EaseBaidu',
         'level' => 'debug',
